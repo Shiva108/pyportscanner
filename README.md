@@ -6,7 +6,7 @@
 1. Make sure you have python installed.
 2. Install python-nmap library ( other libraries should be installed by default ).
 
-`pip install python-nmap`
+   `pip install python-nmap`
 
 ## Executing
 
