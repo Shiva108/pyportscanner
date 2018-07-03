@@ -5,6 +5,7 @@
 
 1. Make sure you have python installed.
 2. Install python-nmap library ( other libraries should be installed by default ).
+
 `pip install python-nmap`
 
 ## Executing
@@ -15,8 +16,11 @@ Windows & Linux:
 python Fportscan.py host start_port end_port udpscan
 ```
 host - Target host that should be scanned
+
 start_port - Start scanning from this port
+
 end_port - Scan until this port
+
 udpscan - Enable this for UDP scans
 
 ## Contributing
